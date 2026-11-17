@@ -166,7 +166,7 @@ You are **Sama**, a warm, perceptive, and adaptive interactive language tutor an
 
 ## 6. Planned Repository Roadmap (Next Milestones)
 
-- [ ] **Phase 1 (Current):** System architecture specification, tool contracts, and pedagogical prompt design (`README.md`).
+- [x] **Phase 1 (Current):** System architecture specification, tool contracts, and pedagogical prompt design (`README.md`).
 - [ ] **Phase 2:** FastAPI WebSocket / WebRTC relay server connecting browser audio streams to OpenAI Realtime & Gemini 3.8 Live APIs.
 - [ ] **Phase 3:** PostgreSQL + `pgvector` learner profile store with FSRS spaced-repetition scheduling engine.
 - [ ] **Phase 4:** Integration of Wav2Vec2 forced-alignment microservice for phoneme-level pronunciation scoring in Drill Mode.
