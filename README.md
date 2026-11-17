@@ -8,7 +8,7 @@
 [![Open Source](https://img.shields.io/badge/Open_Source-Qwen2.5--Omni_%7C_Ultravox-FF6F00?style=flat-square)](#3-llm--provider-selection)
 [![Status](https://img.shields.io/badge/Status-Architecture_Spec-success?style=flat-square)](#)
 
-> **Why "Sama"?** Chosen for effortless pronunciation across native tongues, **Sama** carries layered cross-cultural resonance: *"sky"* and *"elevated status"* (سماء) in Arabic, *"music and harmony"* (साम) in Sanskrit, and a suffix of deep respect (*-sama* / 様) in Japanese.
+> **Why "Sama"?** Chosen for effortless pronunciation across native tongues, **Sama** carries layered cross-cultural resonance: *"sky"* and *"elevated status"* (سما) in Arabic, *"music and harmony"* (साम) in Sanskrit, and a suffix of deep respect (*-sama* / 様) in Japanese.
 
 **Sama** is a real-time, agentic voice language tutor that conducts immersive spoken roleplay, hears subtle pronunciation and prosody errors directly from raw audio, adapts to a learner's CEFR level, and schedules targeted spaced-repetition drills after every session.
 
